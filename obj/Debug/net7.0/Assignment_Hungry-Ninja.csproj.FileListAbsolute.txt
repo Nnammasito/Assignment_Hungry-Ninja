@@ -1,0 +1,14 @@
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\bin\Debug\net7.0\Assignment_Hungry-Ninja.exe
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\bin\Debug\net7.0\Assignment_Hungry-Ninja.deps.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\bin\Debug\net7.0\Assignment_Hungry-Ninja.runtimeconfig.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\bin\Debug\net7.0\Assignment_Hungry-Ninja.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\bin\Debug\net7.0\Assignment_Hungry-Ninja.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\Assignment_Hungry-Ninja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\Assignment_Hungry-Ninja.AssemblyInfoInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\Assignment_Hungry-Ninja.AssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\Assignment_Hungry-Ninja.csproj.CoreCompileInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\Assignment_Hungry-Ninja.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\refint\Assignment_Hungry-Ninja.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\Assignment_Hungry-Ninja.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\Assignment_Hungry-Ninja.genruntimeconfig.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Hungry-Ninja\obj\Debug\net7.0\ref\Assignment_Hungry-Ninja.dll
